@@ -23,14 +23,15 @@ En chargeant un de ces **Skills**, l'IA est forcée d'adopter une posture hermé
 
 ### 🚧 À venir (Série en cours de développement)
 *Ce recueil a vocation à s'enrichir d'autres cadres d'analyse. Par exemple :*
-*   **Exégèse historico-critique** : Approche documentaire, identification des sources (J, E, D, P), critique des formes.
-*   **Herméneutique Patristique / Allégorique** : Lecture à travers le prisme des Pères de l'Église (les quatre sens de l'Écriture).
+*   **Exégèse historico-critique** : Approche documentaire, identification des sources, critique des formes.
+*   **Herméneutique Patristique / Allégorique** : Lecture à travers le prisme des Pères de l'Église.
+*   **Herméneutique comparée** : Analyze comparative tirées des approches successives d'interprétation des Ecritures, du Ie au XXIème siècle.
 *   **Théologie Systématique** : Analyse de concepts théologiques selon un dogme précis (ex: thomisme, théologie réformée).
 *   *... d'autres à définir.*
 
 ## 🚀 Comment utiliser ces Skills ?
 
-Pour utiliser ces compétences, vous devez disposer d'un assistant IA en local, compatible avec le standard des skills, comme ``gemini-cli`, Claude Desktop ou `claud-cli`, ou encore OpenCode, Thunderbolt, Cursor, GitHub Copilot, etc. Les deux premiers sont probablement les plus populaires.
+Pour utiliser ces compétences, vous devez disposer d'un assistant IA en local, compatible avec le standard des skills, comme ``gemini-cli`, Claude Desktop ou `claude-cli`, ou encore OpenCode, Thunderbolt, Cursor, GitHub Copilot, etc. Les deux premiers sont probablement les plus populaires.
 
 Si vous travaillez avec Claude:
 
