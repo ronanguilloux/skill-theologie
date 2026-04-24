@@ -27,6 +27,7 @@ En chargeant un de ces **Skills**, l'IA est forcée d'adopter une posture hermé
 *   **Herméneutique Patristique / Allégorique** : Lecture à travers le prisme des Pères de l'Église.
 *   **Herméneutique comparée** : Analyze comparative tirées des approches successives d'interprétation des Ecritures, du Ie au XXIème siècle.
 *   **Théologie Systématique** : Analyse de concepts théologiques selon un dogme précis (ex: thomisme, théologie réformée).
+    **[Herméneutique talmudique](https://en.wikipedia.org/wiki/Talmudical_hermeneutics)**
 *   *... d'autres à définir.*
 
 ## 🚀 Comment utiliser ces Skills ?
